@@ -1,9 +1,6 @@
 ![](https://velog.velcdn.com/images/chan9708/post/7ca874f2-6f8e-4dca-b935-9bc89d68f620/image.png)
 
 
-> **관련 실습은 Github에서 확인할 수 있습니다.**
-[Github 바로가기](https://github.com/ChanLim-BD/docker-practice)
-
 ![](https://velog.velcdn.com/images/chan9708/post/7db95ac0-2b37-4884-8a9c-47591fd6f6a8/image.png)
 
 ---
